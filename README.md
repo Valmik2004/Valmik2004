@@ -9,7 +9,7 @@
 - 🤖 Developed ML models for **harvest time, yield prediction, anomaly detection, and pump automation**  
 - 🧠 Constantly learning about **AI, Cloud Integration, and Full Stack Development**  
 - 💬 Ask me about **Python | IoT | Machine Learning | Web Development**  
-- 📫 Reach me at **valmikpatil@gmail.com**  
+- 📫 Reach me at **valmikp187@gmail.com**  
 - ⚡ Fun fact: I love turning ideas into working tech prototypes 🚀  
 
 ---
