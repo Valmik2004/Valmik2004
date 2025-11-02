@@ -3,6 +3,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 💡 **About Me:**  
 - 🔭 I’m currently working on an **IoT + Machine Learning project in Hydroponics Farming**  
 - 🌱 I’m exploring **Flask, MongoDB Atlas, and MQTT** for real-time IoT dashboards  
@@ -11,6 +15,15 @@
 - 💬 Ask me about **Python | IoT | Machine Learning | Web Development**  
 - 📫 Reach me at **valmikp187@gmail.com**  
 - ⚡ Fun fact: I love turning ideas into working tech prototypes 🚀  
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,12 +48,7 @@
 <img src="https://img.icons8.com/color/48/000000/github.png"/>
 </p>
 
+---
 
 ### ✨ Quote  
 > “Code that connects the world — from sensors to systems, from data to decisions.” 🌍💻  
-
----
-
-![Coding Gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-
