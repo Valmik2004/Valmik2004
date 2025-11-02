@@ -35,14 +35,6 @@
 <img src="https://img.icons8.com/color/48/000000/github.png"/>
 </p>
 
----
-
-### 📊 GitHub Stats  
-
-![Valmik's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
 
 ### ✨ Quote  
 > “Code that connects the world — from sensors to systems, from data to decisions.” 🌍💻  
