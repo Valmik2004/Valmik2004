@@ -3,7 +3,7 @@
 
 ---
 
-<!-- <table> -->
+<table>
 <tr>
 <td width="60%" valign="top">
   
@@ -23,7 +23,7 @@
 
 </td>
 </tr>
-<!-- </table> -->
+</table>
 
 ---
 
