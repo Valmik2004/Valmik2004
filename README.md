@@ -1,4 +1,4 @@
-# Hi 👋, I'm Valmik Patil  
+# Hi 👋, I'm Valmik Patil
 ### 🌱 Passionate IoT & ML Enthusiast | Aspiring Software Developer  
 
 ---
