@@ -7,7 +7,6 @@
 <tr>
 <td width="60%" valign="top">
 
-
 💡 **About Me:**  
 - 🔭 I’m currently working on an **IoT + Machine Learning project in Hydroponics Farming**  
 - 🌱 I’m exploring **Flask, MongoDB Atlas, and MQTT** for real-time IoT dashboards  
