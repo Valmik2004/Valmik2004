@@ -52,6 +52,7 @@
 
 ---
 
+
 ### ✨ Quote  
 > “Code that connects the world — from sensors to systems, from data to decisions.” 🌍💻
 
