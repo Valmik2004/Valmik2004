@@ -4,6 +4,7 @@
 <tr>
 <td width="60%" valign="top">
 
+
 💡 **About Me:**  
 - 🔭 I’m currently working on an **IoT + Machine Learning project in Hydroponics Farming**  
 - 🌱 I’m exploring **Flask, MongoDB Atlas, and MQTT** for real-time IoT dashboards  
@@ -22,9 +23,7 @@
 </td>
 </tr>
 </table>
-
 ---
-
 ### 🌐 Connect with Me  
 <a href="https://www.linkedin.com/in/valmik-patil-a80754259" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
 <a href="mailto:valmikp187@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail"/></a>
