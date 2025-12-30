@@ -4,7 +4,6 @@
 <tr>
 <td width="60%" valign="top">
 
-
 💡 **About Me:**  
 - 🔭 I’m currently working on an **IoT + Machine Learning project in Hydroponics Farming**  
 - 🌱 I’m exploring **Flask, MongoDB Atlas, and MQTT** for real-time IoT dashboards  
@@ -31,7 +30,7 @@
 
 ---
 
-### 🛠️ Languages and Tools  
+### 🛠️ Language Learning Tools  
 
 <p align="left"> 
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
