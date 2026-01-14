@@ -11,7 +11,7 @@
 - 🧠 Constantly learning about **AI, Cloud Integration, and Full Stack Development**  
 - 💬 Ask me about **Python | IoT | Machine Learning | Web Development**  
 - 📫 Reach me at **valmikp187@gmail.com**  
-- ⚡ Fun fact: I love turning ideas into working tech prototypes 🚀  
+- ⚡ Fun fact: I love turning ideas into working tech prototype 🚀  
 
 </td>
 <td width="40%" align="center">
