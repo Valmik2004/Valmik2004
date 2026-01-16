@@ -1,5 +1,5 @@
 # Hi 👋, I'm Valmik Patil
-### 🌱 Passionate IoT & ML Enthusiast | Aspiring Software Developer  
+### 🌱 Passionate IoT & ML Enthusiast | Aspiring Software Developer.  
 ---
 <tr>
 <td width="60%" valign="top">
