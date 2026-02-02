@@ -7,7 +7,7 @@
 💡 **About Me:**  
 - 🔭 I’m currently working on an **IoT + Machine Learning project in Hydroponics Farming**  
 - 🌱 I’m exploring **Flask, MongoDB Atlas, and MQTT** for real-time IoT dashboards  
-- 🤖 Developed ML models for **harvest time, yield prediction, anomaly detection, and pump automation**  
+- 🤖 Developed ML models for **harvest time, yield prediction, anamoly detection, and pump automation**  
 - 🧠 Constantly learning about **AI, Cloud Integration, and Full Stack Development**  
 - 💬 Ask me about **Python | IoT | Machine Learning | Web Development**  
 - 📫 Reach me at **valmikp187@gmail.com**  
